@@ -11,3 +11,4 @@ $  ssh -i user user@35.225.196.111
 -	[linux-commands](https://github.com/adsoftsito/paradigmas-programacion/blob/main/w1/linuxcommands.pdf)
 -	[vi-editor](https://github.com/adsoftsito/paradigmas-programacion/blob/main/w1/vi-editor.pdf)
 
+4.- Inscribirse a [curso de udemy](https://www.udemy.com/course/free-learn-c-tutorial-beginners)
