@@ -12,3 +12,10 @@ $  ssh -i user user@35.225.196.111
 -	[vi-editor](https://github.com/adsoftsito/paradigmas-programacion/blob/main/w1/vi-editor.pdf)
 
 4.- Inscribirse a [curso de udemy](https://www.udemy.com/course/free-learn-c-tutorial-beginners)
+
+# Semana 1, Tareas ( Entrega: 15/feb/2021) 
+1. Crear un repositorio con nombre:  paradigmas-nombre-apellido
+2. Clonar repositorio en home del servidor Centos
+2. Crear carpeta c++, crear carpeta secc1, codificar los programas de la seccion 1 y subirlos al repositorio
+
+
