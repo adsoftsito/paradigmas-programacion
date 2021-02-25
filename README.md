@@ -27,5 +27,5 @@ $  ssh -i user user@35.225.196.111
 4. Instalar Unity con Unity Hub Ver 2020.2.5f1
 
 # Parcial 1
-1.- Realizar proyecto de Red Neuronal (Cap 11) libro "The Nonlinear Workbook"
-2.- Realizar tutorial [Unity](https://www.udemy.com/course/introduccion-al-desarrollo-de-videojuegos-con-unity-3d)
+1. Realizar proyecto de Red Neuronal (Cap 11) libro The Nonlinear Workbook
+2. Realizar tutorial [Unity](https://www.udemy.com/course/introduccion-al-desarrollo-de-videojuegos-con-unity-3d)
