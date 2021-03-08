@@ -26,6 +26,10 @@ $  ssh -i user user@35.225.196.111
 3. Instalar [Unity Hub](https://unity3d.com/es/get-unity/download)
 4. Instalar Unity con Unity Hub Ver 2020.2.5f1
 
+# Semana 4 - Actividades
+1. Lectura de [RNA](https://ccc.inaoep.mx/~pgomez/cursos/redes%20neuronales%20artificiales/presentaciones/hopfield.pdf)
+2. Lectura de [Hopfield](https://ccc.inaoep.mx/~pgomez/cursos/redes%20neuronales%20artificiales/presentaciones/hopfield.pdf)
+
 # Parcial 1
 1. Realizar proyecto de Red Neuronal (Cap 11) libro The Nonlinear Workbook
 2. Realizar tutorial [Unity](https://www.udemy.com/course/introduccion-al-desarrollo-de-videojuegos-con-unity-3d)
