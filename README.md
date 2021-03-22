@@ -33,5 +33,8 @@ $  ssh -i user user@35.225.196.111
 4. Realizar proyecto de Red Neuronal (Cap 11) libro The Nonlinear Workbook
 
 # Parcial 1
-1. Proyecto Hopfield
-2. Realizar tutorial [Unity](https://www.udemy.com/course/introduccion-al-desarrollo-de-videojuegos-con-unity-3d)
+1. Proyecto Hopfield de un tema especifico con n patrones a reconocer, fecha de entrega: Abr 6, 2021
+- Reporte tecnico en latex (introduccion, desarrollo, conclusion) ( 20 pts )
+- Codigo en matlab para prototipo de su aplicacion ( 30 pts )
+- Codigo en C++ con patrones en archivos de texto ( 50pts )
+3. Realizar tutorial [Unity](https://www.udemy.com/course/introduccion-al-desarrollo-de-videojuegos-con-unity-3d)
