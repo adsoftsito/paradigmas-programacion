@@ -18,13 +18,13 @@ void printw(int **W, int N)
   }
 }
 
-void weigths(int **W, int *x0, int *x1, int N)
+void weigths(int **W, int *x0, int *x1, int *x2, int *x3, int N)
 {
 
   for (int i=0; i<N; i++)
   for (int j=0; j<N; j++)
   {
-    W[i][j] = x0[i]*x0[j] + x1[i]*x1[j];
+    W[i][j] = x0[i]*x0[j] + x1[i]*x1[j] + x2[i]*x2[j] + x3[i]*x3[j];
   }
   for (int k=0; k<N; k++)
     W[k][k]=0;
@@ -111,10 +111,15 @@ int main(void)
   int col = 5;
   int *x0 = new int[N];
   int *x1 = new int[N];
+  int *x2 = new int[N];
+  int *x3 = new int[N];
+
   cout << "iterations " << endl;
 
   readfile("1.txt", x0,  col, N);
   readfile("2.txt", x1,  col, N);
+  readfile("3.txt", x2,  col, N);
+  readfile("4.txt", x3,  col, N);
 
   // pattern 0
 /*  x0[0] = 1;
@@ -140,7 +145,7 @@ int main(void)
     for (int j=0; j<N; j++)
       W[i][j]=0;
 
-  weigths(W, x0, x1, N);
+  weigths(W, x0, x1, x2, x3, N);
   printw(W, N);
 
   int *s = new int[N]; // allocation memory for s
@@ -201,7 +206,7 @@ int main(void)
     count++;
 
     cout << endl;
-
+/*
     for (int i=0; i<N; i++)
     {
       cout << h[i] << " ";
@@ -209,7 +214,7 @@ int main(void)
         cout << endl;
     }
     cout << endl;
-
+*/
     for (int i=0; i<N; i++)
     {
       if (s[i] == -1)

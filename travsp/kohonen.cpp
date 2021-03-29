@@ -3,6 +3,8 @@
 #include <cstdlib>
 #include <ctime>
 #include <iomanip>  // for setprecision
+#include <string.h>
+
 using namespace std;
 
 // find the position in the array d
@@ -35,6 +37,16 @@ int main(void)
   int N = 8; // number of cities
   double *x = new double[N];
   double *y = new double[N];
+  int *route = new int[N+1];
+
+  route[0] = -1;
+  route[1] = -1;
+  route[2] = -1;
+  route[3] = -1;
+  route[4] = -1;
+  route[5] = -1;
+  route[6] = -1;
+  route[7] = -1;
 
   // coordinates of cities
   x[0] = 10.1; x[1] = 4.0; x[2] = 0.1; x[3] = 0.5;
@@ -72,14 +84,14 @@ int main(void)
 
   for (long cnt=0; cnt<T; cnt++)
   {
-    cout << cnt << endl;
+    //cout << cnt << endl;
     int nrand = rand()%N;
     for(int j=0; j<M; j++)
     {
       dist[j] = fabs(u[j] - x[nrand]) + fabs(v[j] - y[nrand]);
       //cout << dist[j] << " ";
     }
-    cout << endl;
+    //cout << endl;
 
     int imin = minimun(dist, M);
     double c = cnt;
@@ -105,12 +117,44 @@ int main(void)
  // display of output
   cout << endl << endl;
 
-  for(int j=0; j<M; j++)
+  for(int j=M-1; j>=0; j--)
   {
-    cout << "u[" << j << "] = " << setprecision(3) << u[j] << " ";
-    cout << "v[" << j << "] = " << setprecision(3) << v[j] << endl;
+    for (int i=0;i < N; i++)
+    {
+      if ( (to_string(u[j])==to_string(x[i]))
+           && 
+           (to_string(v[j])==to_string(y[i]))
+         )
+      {
+        //cout << i << " -> ";
+        int found = 0;
+        for (int k=0;k < N; k++)
+        {
+            if (route[k] == i)
+              found = 1;
+        }
 
+        if (!found)
+        {
+          for (int k=0;k < N; k++)
+          {
+            if (route[k] == -1)
+            {  
+              route[k] = i;
+              break;
+            }
+          }
+
+        }
+     }
+    }
   }
+ route[N+1]=0;
+ cout << "Route : " << endl;
+ for (int i=0;i <= N; i++)
+ {
+   cout << route[i] << " ";
+ }
 
  delete[] x;
  delete[] y;
