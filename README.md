@@ -32,6 +32,18 @@ $  ssh -i user user@35.225.196.111
 3. Realizar practica de Hopfield usando GNU Octave
 4. Realizar proyecto de Red Neuronal (Cap 11) libro The Nonlinear Workbook
 
+# Javacript (front y backend)
+1. Conceptos de [API](https://docs.google.com/presentation/d/1EAzaEWwT7eZvFAe7EpurZYLg7v225mt8fZJko_K2A6k/edit?usp=sharing)
+2. Contruccion de APIs, [introduccion](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit?usp=sharing)
+3. Nodejs [desde Cero, Crear una API](https://docs.google.com/presentation/d/1-WYYV7bmkjMeRM5I7CLmyEouzkQTSlqRlxds67atLlI/edit?usp=sharing)
+4. Crear una [REST-API en postgres](https://docs.google.com/presentation/d/1a5cRhFod-mP-EtBFS3-NkLSCHgdbe8BhnvQ-TUUucA8/edit?usp=sharing), version [mysql](https://docs.google.com/presentation/d/1XCU-Q8uKVOLARYizHy70f9-LyS_lngOkQIl6ityj2ow/edit?usp=sharing)
+
+# Python
+1. Repaso
+2. Django / flask
+3. Graphql/graphene
+4. IA con python
+
 # Parcial 1
 1. Proyecto Hopfield de un tema especifico con n patrones a reconocer, fecha de entrega: Abr 6, 2021
 - Reporte tecnico en latex (introduccion, desarrollo, conclusion) ( 20 pts )
