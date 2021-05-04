@@ -40,8 +40,9 @@ $  ssh -i user user@35.225.196.111
 
 # Python
 1. [Repaso](https://github.com/adsoftsito/python) 
-2. [Graphql/graphene](https://github.com/adsoftsito/apis/blob/master/w15/itesm_apis_semana15.pdf)
-4. IA con python
+2. [Python/GraphQL](https://github.com/adsoftsito/apis/blob/master/w13/itesm_apis_semana13.pdf)
+3. [IA con python](https://github.com/adsoftsito/apis/blob/master/w15/itesm_apis_semana15.pdf)
+
 
 # Parcial 1
 1. Proyecto Hopfield de un tema especifico con n patrones a reconocer, fecha de entrega: Abr 6, 2021
