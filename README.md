@@ -40,8 +40,7 @@ $  ssh -i user user@35.225.196.111
 
 # Python
 1. [Repaso](https://github.com/adsoftsito/python) 
-2. Django / flask
-3. Graphql/graphene
+2. [Graphql/graphene](https://github.com/adsoftsito/apis/blob/master/w15/itesm_apis_semana15.pdf)
 4. IA con python
 
 # Parcial 1
