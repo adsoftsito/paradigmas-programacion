@@ -4,7 +4,7 @@
 1. Instalar [github](https://git-scm.com/downloads)
 2. Probar conectividad con SSH a servidor
 
-$  ssh -i user user@35.225.196.111
+$  ssh -i tutorinteligente.pem ec2-user@54.205.25.232
 
 3. Repaso de comandos linux
 
