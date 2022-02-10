@@ -1,4 +1,4 @@
-# Paradigmas de programacion [Lista de clase](https://drive.google.com/file/d/1GE1RXVNGBCg3nEP91bzO9KvbMuoz9EA9/view?usp=sharing)
+# Paradigmas de programacion [Lista de clase](https://docs.google.com/spreadsheets/d/1npuGxthpXBhV0R2jTZF3x82hqupylerx/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 # Semana 1 - Conectividad a servidor, repaso de Linux y editor vi
 
 1. Instalar [github](https://git-scm.com/downloads)
