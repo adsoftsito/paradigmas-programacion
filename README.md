@@ -21,10 +21,8 @@ $  ssh -i tutorinteligente.pem ec2-user@54.205.25.232
 
 # Semana 3 - Actividades
 
-1. Instalar [GNU Octave](https://www.gnu.org/software/octave/download)
+1. Instalar [GNU Octave](https://www.gnu.org/software/octave/download), realizar lab [Getting Started](https://matlabacademy.mathworks.com/es/details/matlab-onramp/gettingstarted?s_tid=course_mlor_start1)
 2. Realizar Seccion 4 [Object Oriented Coding](https://www.udemy.com/course/free-learn-c-tutorial-beginners)
-3. Instalar [Unity Hub](https://unity3d.com/es/get-unity/download)
-4. Instalar Unity con Unity Hub Ver 2020.2.5f1
 
 # Semana 4 - Actividades
 1. Lecturas de [RNA](https://ccc.inaoep.mx/~pgomez/cursos/redes%20neuronales%20artificiales/index_archivos/Page611.htm)
