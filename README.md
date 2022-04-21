@@ -41,7 +41,20 @@ $  ssh -i tutorinteligente.pem ec2-user@54.205.25.232
 # Python
 1. [Repaso](https://github.com/adsoftsito/python) 
 2. [Python/GraphQL](https://github.com/adsoftsito/apis/blob/master/w13/itesm_apis_semana13.pdf)
-3. [IA con python](https://github.com/adsoftsito/apis/blob/master/w15/itesm_apis_semana15.pdf)
+4. Instalar [Python 3.7](https://tecadmin.net/install-python-3-7-on-centos/)
+5. Instalar Postgresql
+ - [Instalacion Centos 8](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-centos-8)
+ 
+ - [Habilitar acceso remoto](https://yallalabs.com/linux/how-to-enable-network-remote-access-to-postgresql-database-server/)
+ 
+ - Abrir puerto de postgres desde cloud-shell
+ 
+ - gcloud compute firewall-rules create postgres --allow tcp:5432
+ - gcloud compute firewall-rules
+ 
+6. Revisar [Crear Graphql API](https://www.howtographql.com/graphql-python/0-introduction/)
+
+7. [IA con python](https://github.com/adsoftsito/apis/blob/master/w15/itesm_apis_semana15.pdf)
 
 
 # Parcial 1
