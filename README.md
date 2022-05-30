@@ -62,4 +62,13 @@ $  ssh -i tutorinteligente.pem ec2-user@54.205.25.232
 - Reporte tecnico en latex (introduccion, desarrollo, conclusion) ( 20 pts )
 - Codigo en matlab para prototipo de su aplicacion ( 30 pts )
 - Codigo en C++ con patrones en archivos de texto ( 50pts )
-3. Realizar tutorial [Unity](https://www.udemy.com/course/introduccion-al-desarrollo-de-videojuegos-con-unity-3d)
+
+
+# Parcial 2
+1. Proyecto personal front/api y postgresql fecha de entrega: May xx, 2022
+- Api hackernews funcionando ( 10 pts )
+- Front react de hackernews, personalizado con Nombre, matricula  ( 10 pts ) 
+- Api de su tema especifico: anime, pokemon, gatitos, plantas, entre otros. ( 30pts )
+- Front react de su tema  (30pts)
+- Personalizacion de front con nombre, matricula, colores, estilos, tipos de letra, entre otros) (20pts)
+
