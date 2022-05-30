@@ -65,7 +65,7 @@ $  ssh -i tutorinteligente.pem ec2-user@54.205.25.232
 
 
 # Parcial 2
-1. Proyecto personal front/api y postgresql fecha de entrega: May xx, 2022
+1. Proyecto personal front/api y postgresql fecha de entrega: Jun 16, 2022
 - Api hackernews funcionando ( 10 pts )
 - Front react de hackernews, personalizado con Nombre, matricula  ( 10 pts ) 
 - Api de su tema especifico: anime, pokemon, gatitos, plantas, entre otros. ( 30pts )
