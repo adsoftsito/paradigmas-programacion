@@ -11,7 +11,7 @@ $  ssh -i tutorinteligente.pem ec2-user@54.205.25.232
 -	[linux-commands](https://github.com/adsoftsito/paradigmas-programacion/blob/main/w1/linuxcommands.pdf)
 -	[vi-editor](https://github.com/adsoftsito/paradigmas-programacion/blob/main/w1/vi-editor.pdf)
 
-4.- Inscribirse a [curso de udemy](https://www.udemy.com/course/free-learn-c-tutorial-beginners)
+4.- Realizar [ejercicios en C++](https://www.programiz.com/cpp-programming/examples)
 
 # Semana 1, Tareas ( Entrega: 15/feb/2021) 
 1. Crear un repositorio con nombre:  paradigmas-nombre-apellido
