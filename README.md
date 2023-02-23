@@ -30,7 +30,7 @@ $  ssh -i tutorinteligente.pem ec2-user@54.205.25.232
 # Semana 4 - Actividades
 2. Lectura de [Hopfield](https://ccc.inaoep.mx/~pgomez/cursos/redes%20neuronales%20artificiales/presentaciones/hopfield.pdf)
 3. Realizar practica de Hopfield usando GNU Octave
-4. Realizar proyecto de Red Neuronal (Cap 11) libro The Nonlinear Workbook
+4. Realizar proyecto de Red Neuronal (Cap 11) libro [The Nonlinear Workbook](https://github.com/adsoftsito/paradigmas-programacion/blob/main/Nonlinear-Workbook-Algorithms-Expression-Programming.pdf)
 
 # Javacript (front y backend)
 1. Conceptos de [API](https://docs.google.com/presentation/d/1EAzaEWwT7eZvFAe7EpurZYLg7v225mt8fZJko_K2A6k/edit?usp=sharing)
