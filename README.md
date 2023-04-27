@@ -38,6 +38,16 @@ $  ssh -i tutorinteligente.pem ec2-user@54.205.25.232
 3. Nodejs [desde Cero, Crear una API](https://docs.google.com/presentation/d/1-WYYV7bmkjMeRM5I7CLmyEouzkQTSlqRlxds67atLlI/edit?usp=sharing)
 4. Crear una [REST-API en postgres](https://docs.google.com/presentation/d/1a5cRhFod-mP-EtBFS3-NkLSCHgdbe8BhnvQ-TUUucA8/edit?usp=sharing), version [mysql](https://docs.google.com/presentation/d/1XCU-Q8uKVOLARYizHy70f9-LyS_lngOkQIl6ityj2ow/edit?usp=sharing)
 
+# Introduccion a Docker
+1. Instalar [docker](https://docs.docker.com/engine/install/centos/)
+2. Lectura [introduccion a docker](https://github.com/adsoftsito/web/blob/main/w1/docker_intro.pdf)
+3. Realizar [DockerLab](https://github.com/adsoftsito/web/blob/main/w1/dockerlab.pdf)
+4. Realizar [DockerLab2](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
+5. Registrarse en [Docker Hub](https://hub.docker.com/)
+6. Subir imagen de nodejs a Docker Hub (Punto 5 dockerlab)
+
+
+
 # Python
 1. [Repaso](https://github.com/adsoftsito/python) 
 2. [Python/GraphQL](https://github.com/adsoftsito/apis/blob/master/w13/itesm_apis_semana13.pdf)
