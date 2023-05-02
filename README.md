@@ -46,7 +46,9 @@ $  ssh -i tutorinteligente.pem ec2-user@54.205.25.232
 5. Registrarse en [Docker Hub](https://hub.docker.com/)
 6. Subir imagen de nodejs a Docker Hub (Punto 5 dockerlab)
 
-
+# Deploy en Docker/Kubernetes
+1. Deploy Frontend  [Docker/Kubernetes](https://docs.google.com/presentation/d/1YFgDfZ9FLu3dwyANWK_xfL54NgahGA8C/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
+2. Deploy Backend [Docker/Kubernetes](https://docs.google.com/presentation/d/1JZwXtZyVSp3fYoRfMo0iTvDuAUTdLatG/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
 
 # Python
 1. [Repaso](https://github.com/adsoftsito/python) 
