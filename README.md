@@ -68,6 +68,7 @@ $  ssh -i tutorinteligente.pem ec2-user@54.205.25.232
 
 7. [IA con python](https://github.com/adsoftsito/apis/blob/master/w15/itesm_apis_semana15.pdf)
 
+8. Deploy [Graphql Api](https://docs.google.com/presentation/d/1dwkslhao4AJfPmMFkTiC-pfJ7FwoWMzu6zw_i59sQGw/edit#slide=id.p)
 
 # Parcial 1
 1. Proyecto Hopfield de un tema especifico con n patrones a reconocer, fecha de entrega: Abr 6, 2021
