@@ -1,4 +1,4 @@
-# Paradigmas de programacion [https://docs.google.com/spreadsheets/d/1EYNbCM25V2U7ycOFMMacG5vbfcX1g-zwllLEb3k-fyQ/edit?usp=sharing)
+# Paradigmas de programacion [sec 1](https://docs.google.com/spreadsheets/d/1EYNbCM25V2U7ycOFMMacG5vbfcX1g-zwllLEb3k-fyQ/edit?usp=sharing)
 # Semana 1 - Conectividad a servidor, repaso de Linux y editor vi
 
 1. Instalar [github](https://git-scm.com/downloads)
