@@ -2,10 +2,6 @@
 # Semana 1 - Conectividad a servidor, repaso de Linux y editor vi
 
 1. Instalar [github](https://git-scm.com/downloads)
-2. Probar conectividad con SSH a servidor
-
-$  ssh -i tutorinteligente.pem ec2-user@54.205.25.232
-
 3. Repaso de comandos linux
 
 -	[linux-commands](https://github.com/adsoftsito/paradigmas-programacion/blob/main/w1/linuxcommands.pdf)
@@ -14,8 +10,10 @@ $  ssh -i tutorinteligente.pem ec2-user@54.205.25.232
 4.- Realizar [ejercicios en C++](https://www.programiz.com/cpp-programming/examples)
 
 # Semana 1, Tareas ( Entrega: 15/feb/2021) 
+
 1. Crear un repositorio con nombre:  paradigmas-nombre-apellido
-2. Clonar repositorio en home del servidor Centos
+2. Realizar lab [intro a git](https://docs.google.com/presentation/d/1XN6DkTLURU1VPN1LEXuf6o7XTAMjyG-A/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
+3. Clonar repositorio en home del servidor Centos
 2. Crear carpeta c++, crear carpeta secc1, codificar los programas de la seccion 1 y subirlos al repositorio
 
 
