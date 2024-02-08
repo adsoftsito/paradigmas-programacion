@@ -15,22 +15,6 @@
 
 1. Crear un repositorio con nombre:  paradigmas-nombre-apellido
 2. Realizar lab [intro a git](https://docs.google.com/presentation/d/1XN6DkTLURU1VPN1LEXuf6o7XTAMjyG-A/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
-3. Clonar repositorio en home del servidor Centos
-2. Crear carpeta c++, crear carpeta secc1, codificar los programas de la seccion 1 y subirlos al repositorio
-
-
-# Semana 3 - Actividades
-
-1. Instalar [GNU Octave](https://www.gnu.org/software/octave/download), realizar lab [Getting Started](https://matlabacademy.mathworks.com/es/details/matlab-onramp/gettingstarted?s_tid=course_mlor_start1)
-2. Realizar ejercicios [Matrices en Matlab](https://github.com/adsoftsito/paradigmas-programacion/blob/main/w1/operaciones_matrices.pdf)
-3. Realizar laboratorio [Matrices adicionales](https://github.com/adsoftsito/paradigmas-programacion/blob/main/w1/operaciones_matrices_adicionales.pdf)
-4. Lecturas de [RNA](https://ccc.inaoep.mx/~pgomez/cursos/redes%20neuronales%20artificiales/index_archivos/Page611.htm)
-5. Realizar Seccion 4 [Object Oriented Coding](https://www.udemy.com/course/free-learn-c-tutorial-beginners)
-
-# Semana 4 - Actividades
-2. Lectura de [Hopfield](https://ccc.inaoep.mx/~pgomez/cursos/redes%20neuronales%20artificiales/presentaciones/hopfield.pdf)
-3. Realizar practica de Hopfield usando GNU Octave
-4. Realizar proyecto de Red Neuronal (Cap 11) libro [The Nonlinear Workbook](https://github.com/adsoftsito/paradigmas-programacion/blob/main/Nonlinear-Workbook-Algorithms-Expression-Programming.pdf)
 
 # Javacript (front y backend)
 1. Conceptos de [API](https://docs.google.com/presentation/d/1EAzaEWwT7eZvFAe7EpurZYLg7v225mt8fZJko_K2A6k/edit?usp=sharing)
@@ -49,6 +33,27 @@
 # Deploy en Docker/Kubernetes
 1. Deploy Frontend  [Docker/Kubernetes](https://docs.google.com/presentation/d/1YFgDfZ9FLu3dwyANWK_xfL54NgahGA8C/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
 2. Deploy Backend [Docker/Kubernetes](https://docs.google.com/presentation/d/1JZwXtZyVSp3fYoRfMo0iTvDuAUTdLatG/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
+
+
+
+
+
+# Semana 3 - Actividades
+
+3. Clonar repositorio en home del servidor Centos
+2. Crear carpeta c++, crear carpeta secc1, codificar los programas de la seccion 1 y subirlos al repositorio
+
+1. Instalar [GNU Octave](https://www.gnu.org/software/octave/download), realizar lab [Getting Started](https://matlabacademy.mathworks.com/es/details/matlab-onramp/gettingstarted?s_tid=course_mlor_start1)
+2. Realizar ejercicios [Matrices en Matlab](https://github.com/adsoftsito/paradigmas-programacion/blob/main/w1/operaciones_matrices.pdf)
+3. Realizar laboratorio [Matrices adicionales](https://github.com/adsoftsito/paradigmas-programacion/blob/main/w1/operaciones_matrices_adicionales.pdf)
+4. Lecturas de [RNA](https://ccc.inaoep.mx/~pgomez/cursos/redes%20neuronales%20artificiales/index_archivos/Page611.htm)
+5. Realizar Seccion 4 [Object Oriented Coding](https://www.udemy.com/course/free-learn-c-tutorial-beginners)
+
+# Semana 4 - Actividades
+2. Lectura de [Hopfield](https://ccc.inaoep.mx/~pgomez/cursos/redes%20neuronales%20artificiales/presentaciones/hopfield.pdf)
+3. Realizar practica de Hopfield usando GNU Octave
+4. Realizar proyecto de Red Neuronal (Cap 11) libro [The Nonlinear Workbook](https://github.com/adsoftsito/paradigmas-programacion/blob/main/Nonlinear-Workbook-Algorithms-Expression-Programming.pdf)
+
 
 # Python
 1. [Repaso](https://github.com/adsoftsito/python) 
